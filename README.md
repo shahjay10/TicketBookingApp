@@ -1,1 +1,4 @@
-# TicketBookingApp
+--> Creating the Clone of the BookMyShow
+--> Seat Select Facility
+--> Payment Integration
+--> Testing and Deployment
